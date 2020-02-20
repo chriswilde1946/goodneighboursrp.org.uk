@@ -1,17 +1,17 @@
 - links:
-  - name: Pricing
-    link: /pricing/
-  - name: Blog
-    link: /blog/
+  - name: How can you help me?
+    link: /help-me/
+  - name: What's New
+    link: /whats-new/
   - name: About
     link: /about/
   - name: Contact
     link: /contact/
 - links:
-  - name: Login
+  - name: Become a volunteer
     link: /
     new_window: true
-  - name: Sign Up
+  - name: volunteer
     link: /
     new_window: true
   - name: Docs

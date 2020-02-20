@@ -1,12 +1,16 @@
-- name: Pricing
-  link: /pricing/
+- name: Home
+  link: /
+  new_window: false
+  highlight: true
+- name: How can we help you?
+  link: /help-me/
   new_window: false
   highlight: false
-- name: Blog
-  link: /blog/
+- name: Become a volunteer
+  link: /become-a-volunteer/
   new_window: false
   highlight: false
-- name: About
+- name: About US
   link: /about/
   new_window: false
   highlight: false
@@ -14,11 +18,7 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
-  link: /
-  new_window: true
+- name: Donate
+  link: /donate/
+  new_window: false
   highlight: false
-- name: Sign Up
-  link: /
-  new_window: true
-  highlight: true
