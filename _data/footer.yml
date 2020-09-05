@@ -22,7 +22,7 @@
     social_icon: Facebook
   - name: Privacy Policy
     link: /PrivacyPolicy/
-     new_window: true
+    
   - name: RSS
     link: /feed.xml
     social_icon: RSS
