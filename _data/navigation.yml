@@ -6,11 +6,15 @@
   link: /help-me/
   new_window: false
   highlight: false
+- name: Services & advice 
+  link: /services/
+  new_window: false
+  highlight: false
 - name: Become a volunteer
   link: /become-a-volunteer/
   new_window: false
   highlight: false
-- name: About US
+- name: About us
   link: /about/
   new_window: false
   highlight: false
@@ -20,5 +24,9 @@
   highlight: false
 - name: Donate
   link: /donate/
+  new_window: false
+  highlight: false
+- name: Trustees
+  link: /trustees/
   new_window: false
   highlight: false

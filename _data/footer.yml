@@ -1,27 +1,27 @@
 - links:
   - name: How can you help me?
     link: /help-me/
-  - name: What's New
+  - name: What's new
     link: /whats-new/
   - name: About
     link: /about/
   - name: Contact
     link: /contact/
+- links:    
   - name: Become a volunteer
     link: /become-a-volunteer/
     new_window: true
-  - name: Docs
-    link: /
+  - name: Privacy policy
+    link: /PrivacyPolicy/
     new_window: true
-  - name: Status
-    link: /
+  - name: Equality & diversity policy
+    link: /equality/
     new_window: true
+- links:    
   - name: Facebook
     link: https://facebook.com/Village Tribune on Facebook/
     new_window: true
     social_icon: Facebook
-
-    
   - name: RSS
     link: /feed.xml
     social_icon: RSS

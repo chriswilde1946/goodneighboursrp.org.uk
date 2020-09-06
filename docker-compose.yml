@@ -1,4 +1,5 @@
 version: "3"
+version: "3"
 services:
   openfaas-jekyll:
     command: jekyll serve --force_polling
@@ -6,4 +7,4 @@ services:
     volumes:
       - .:/srv/jekyll
     ports:
-      - 4000:4000
+      - 4001:4000
