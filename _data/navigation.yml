@@ -30,3 +30,7 @@
   link: /trustees/
   new_window: false
   highlight: false
+- name: Latest News
+  link: /images/Newsletter.png/
+  new_window: false
+  highlight: false
