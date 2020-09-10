@@ -31,6 +31,6 @@
   new_window: false
   highlight: false
 - name: Latest News
-  link: /images/Newsletter.png
+  link: /newsletter/
   new_window: false
   highlight: false
