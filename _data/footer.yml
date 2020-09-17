@@ -2,7 +2,7 @@
   - name: How can you help me?
     link: /help-me/
   - name: What's new
-    link: /whats-new/
+    link: /newsletter/
   - name: About
     link: /about/
   - name: Contact
@@ -19,7 +19,7 @@
     new_window: true
 - links:    
   - name: Facebook
-    link: https://facebook.com/Village Tribune on Facebook/
+    link: https://www.facebook.com/groups/villagetribune/
     new_window: true
     social_icon: Facebook
   - name: RSS
