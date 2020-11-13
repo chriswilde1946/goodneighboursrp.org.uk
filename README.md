@@ -1,2 +1,2 @@
-# rnwpgoodneighbours.org.uk
+# goodneighboursrp.org.uk
 Rural north-west peterborough good neighbours website
